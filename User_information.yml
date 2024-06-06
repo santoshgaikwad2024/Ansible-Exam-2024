@@ -1,0 +1,12 @@
+myusers:
+- name: ravi
+  uid: 1010
+  first: ravi
+  last: sharma
+  middle: exam
+
+- name: manish
+  uid: 1011
+  first: manish
+  last: sharma
+  middle: exam1
